@@ -10,6 +10,7 @@ With 4 weeks into learning the Java fundamentals, we were challenged to make a g
 - Jorge Fernandes
 - Tiago Fernandes
 - José Menezes
+- João Vieira
 
 ## How to play
 
