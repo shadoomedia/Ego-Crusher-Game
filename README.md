@@ -11,9 +11,9 @@ EgoCrusher is a Java game made using SimpleGraphicsGFX library (by <Academia de 
 With 4 weeks into learning the Java fundamentals, we were challenged to make a game from scratch in one single week, in our spare time - whilst learning more about programming.
 
 #### Game made by: 
-- Jorge Fernandes
-- Tiago Fernandes
-- José Menezes
+- [Jorge Fernandes](https://www.linkedin.com/in/jorge-fernandes-dev/)
+- [Tiago Fernandes](https://www.linkedin.com/in/tiagofern/)
+- [José Menezes](https://www.linkedin.com/in/developer-jose-meneses/)
 - João Vieira
 
 ## How to play
