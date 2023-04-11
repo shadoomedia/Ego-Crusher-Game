@@ -1,6 +1,10 @@
 # Ego Crusher
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,ps" />
+  </a>
+</p>
 
 EgoCrusher is a Java game made using SimpleGraphicsGFX library (by <Academia de Código_>)
 
